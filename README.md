@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Relógio Digital com Mudança de Fundo
 
 Este projeto é um relógio digital simples que exibe a hora atual e muda o fundo da página com base na hora do dia. O relógio é estilizado com CSS e utiliza JavaScript para atualizar a hora e mudar o fundo dinamicamente.
