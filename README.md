@@ -16,6 +16,4 @@ Este projeto é um relógio digital simples que exibe a hora atual e muda o fund
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilização da página e responsividade.
 - **JavaScript**: Lógica para atualização da hora e mudança de fundo.
-=======
-# relogio
->>>>>>> 8f47871eaf14c88c646059e0ef86b920ea612653
+  
